@@ -6,4 +6,6 @@ It visualizes Yamanote Line (Train Net) Data including location and number of pa
 ## Compile
 This project is made with Java 8 + Java FX. You can compile with Eclipse and e(fx)clipse plugin.
 
+## How it works
+You can see how it works in this video.
 [![](http://img.youtube.com/vi/TgvKF_H5ef4/0.jpg)](https://www.youtube.com/watch?v=TgvKF_H5ef4)
